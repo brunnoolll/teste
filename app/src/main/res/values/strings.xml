@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nem te conto!!</string>
+    <string name="description">Descrição</string>
+    <string name="qrcode">QRcode</string>
+    <string name="title">Titulo</string>
+    <string name="source">Fonte</string>
+    <string name="published_at">Publicado em:</string>
+    <string name="favorite">Favoritos</string>
+    <string name="search_menu">Pesquisar…</string>
+    <string name="search_query_hint">Pesquise noticias pelo mundo…</string>
+</resources>
